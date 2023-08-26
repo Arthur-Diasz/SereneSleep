@@ -117,12 +117,12 @@ body {
 .beneficios {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url(../img/bg2-6.jpg);
+  background-color: #3B0A5F;
   background-position: center center;
   background-size: cover;
 }
 .beneficios h2 {
-  color: #01402e;
+  color: #FFF;
   font-family: "Tahoma", Sans-serif;
   font-size: clamp(28px, 4vw, 46px);
   font-weight: 800;
@@ -134,19 +134,15 @@ body {
     hue-rotate(10deg);
   border-style: solid;
   border-width: 3px 3px 3px 3px;
-  border-color: #066a4d;
+  border-color: #E0E0E0;
   border-radius: 10px 10px 10px 10px;
   box-shadow: 0px 7px 17px 0px rgb(6 106 77 / 18%);
 }
 .beneficios h6 {
-  color: #01402e;
+  color: #FFF;
   font-family: "Open Sans", Sans-serif;
   font-size: clamp(20px, 3vw, 22px);
   font-weight: 500;
-  -webkit-text-stroke-width: 1px;
-  stroke-width: 1px;
-  -webkit-text-stroke-color: #01402e;
-  stroke: #01402e;
   line-height: 1;
   margin-top: 20px;
 }
@@ -361,7 +357,7 @@ body {
 }
 /** ESPECIALISTA **/
 .especialista {
-  background-color: #d6e7e3;
+  background-color: #B19CD9;
 }
 .especialista-img {
   position: relative;
